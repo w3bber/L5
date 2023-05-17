@@ -22,7 +22,7 @@ footer {
     color: white;
 }
 a.foo:hover {
-  text-decoration-color: black;
+  text-decoration-color: brown;
   color: black;
 }
 a.foo {
